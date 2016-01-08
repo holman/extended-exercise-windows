@@ -2,7 +2,7 @@
 
 A list of startups that have employee-friendly terms for exercising your options past the (current norm) of 90 days.
 
-For more information, read [this post](SOME REAL COOL POST THAT WILL EVENTUALLY GET PUBLISHED LOL).
+For more information, read [this post](http://zachholman.com/posts/fuck-your-90-day-exercise-window/).
 
 ## Companies
 
