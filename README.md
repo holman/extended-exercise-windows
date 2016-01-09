@@ -14,5 +14,6 @@ Name | Exercise Window | Additional details
 [Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec)
 [Expensify](https://expensify.com) | [2 years](http://blog.expensify.com/2015/10/05/building-a-pro-employee-company-updating-equity-distribution-at-expensify/) | After 3 years of employment
 [GitLab](https://gitlab.com) | [10 years](https://about.gitlab.com/handbook/stock-options/)
+[Persista](http://persista.com) | 1 year
 [Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
 [Quora](https://quora.com) | [10 years](https://twitter.com/adamdangelo/status/623734971090518017)
