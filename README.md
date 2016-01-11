@@ -10,6 +10,7 @@ Name | Exercise Window | Additional details
 ---- | ---- | ----
 [Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
 [Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
+[Clearbit](https://clearbit.com) | [10 years](http://blog.clearbit.com/stock)
 [Clef](https://getclef.com) | [7 years](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md#exercising-your-options)
 [Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years
 [Expensify](https://expensify.com) | [2 years](http://blog.expensify.com/2015/10/05/building-a-pro-employee-company-updating-equity-distribution-at-expensify/) | After 3 years of employment
