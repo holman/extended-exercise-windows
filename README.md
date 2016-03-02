@@ -15,6 +15,7 @@ Name | Exercise Window | Additional details
 [CodeCombat](http://codecombat.com) | 10 years
 [Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years of employment
 [Expensify](https://expensify.com) | [2 years](http://blog.expensify.com/2015/10/05/building-a-pro-employee-company-updating-equity-distribution-at-expensify/) | After 3 years of employment
+[Flexport](https://www.flexport.com/) | [10 years](https://www.flexport.com/blog/10-year-option-exercise-window/)
 [Kayako](https://www.kayako.com) | [10 years](https://twitter.com/jmedwards/status/685778938992410625)
 [Persista](http://persista.com) | 1 year
 [Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
