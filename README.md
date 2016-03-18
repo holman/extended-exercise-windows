@@ -23,3 +23,4 @@ Name | Exercise Window | Additional details
 [Segment](https://segment.com) | [10 years](https://twitter.com/calvinfo/status/622550129518612481)
 [Tilt](http://tilt.com) | 10 years | After 2 years of employment
 [Triplebyte](https://triplebyte.com) | [10 years ](https://data.triplebyte.com/extending-stock-option-exercise-window-guide-43821b47cbbd)
+[Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
