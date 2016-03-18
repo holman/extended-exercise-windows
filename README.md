@@ -21,6 +21,6 @@ Name | Exercise Window | Additional details
 [Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
 [Quora](https://quora.com) | [10 years](https://twitter.com/adamdangelo/status/623734971090518017)
 [Segment](https://segment.com) | [10 years](https://twitter.com/calvinfo/status/622550129518612481)
+[Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
 [Tilt](http://tilt.com) | 10 years | After 2 years of employment
 [Triplebyte](https://triplebyte.com) | [10 years ](https://data.triplebyte.com/extending-stock-option-exercise-window-guide-43821b47cbbd)
-[Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
