@@ -10,6 +10,7 @@ Name | Exercise Window | Additional details
 ---- | ---- | ----
 [Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
 [Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
+[Braid](https://braidhq.com) | 5 years
 [Clearbit](https://clearbit.com) | [10 years](http://blog.clearbit.com/stock)
 [Clef](https://getclef.com) | [7 years](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md#exercising-your-options)
 [CodeCombat](http://codecombat.com) | 10 years
