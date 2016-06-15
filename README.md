@@ -19,6 +19,7 @@ Name | Exercise Window | Additional details
 [Expensify](https://expensify.com) | [2 years](http://blog.expensify.com/2015/10/05/building-a-pro-employee-company-updating-equity-distribution-at-expensify/) | After 3 years of employment
 [Flexport](https://www.flexport.com/) | [10 years](https://www.flexport.com/blog/10-year-option-exercise-window/)
 [GoCardless](https://gocardless.com) | 10 years
+[Heap](https://heapanalytics.com) | 10 years
 [Instacart](https://www.instacart.com) | 7 years
 [Kayako](https://www.kayako.com) | [10 years](https://twitter.com/jmedwards/status/685778938992410625)
 [Persista](http://persista.com) | 1 year
