@@ -30,3 +30,7 @@ Name | Exercise Window | Additional details
 [Tettra](http://tettra.co) | 5 years
 [Tilt](http://tilt.com) | 10 years | After 2 years of employment
 [Triplebyte](https://triplebyte.com) | [10 years ](https://data.triplebyte.com/extending-stock-option-exercise-window-guide-43821b47cbbd)
+
+## VCs
+
+It's worth noting that Andreessen Horowitz [has come out in strong favor of the 90 day window](http://a16z.com/2016/06/23/options-timing/). If you feel strongly about extended exercise windows, it might be worth considering whether a16z portfolio companies are a good fit for you.
