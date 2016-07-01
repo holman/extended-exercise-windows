@@ -30,6 +30,7 @@ Name | Exercise Window | Additional details
 [Tettra](http://tettra.co) | 5 years
 [Tilt](http://tilt.com) | 10 years | After 2 years of employment
 [Triplebyte](https://triplebyte.com) | [10 years ](https://data.triplebyte.com/extending-stock-option-exercise-window-guide-43821b47cbbd)
+[TrueAccord](https://trueaccord.com) | [7 years](http://blog.trueaccord.com/2016/06/why-we-chose-a-7-year-exercise-window-and-other-startup-thoughts/)
 
 ## VCs
 
