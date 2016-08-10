@@ -8,6 +8,7 @@ For more information, read [this post](http://zachholman.com/posts/fuck-your-90-
 
 Name | Exercise Window | Additional details
 ---- | ---- | ----
+[Alien Labs](https://alien.ai) | [10 years](https://twitter.com/mirceap/status/704442936906412033) | After 2 years of employment
 [Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
 [Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
 [Braid](https://braidhq.com) | 5 years
