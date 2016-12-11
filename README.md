@@ -24,6 +24,7 @@ Name | Exercise Window | Additional details
 [Heap](https://heapanalytics.com) | 10 years
 [Instacart](https://www.instacart.com) | 7 years
 [Kayako](https://www.kayako.com) | [10 years](https://twitter.com/jmedwards/status/685778938992410625)
+[Kickstarter](https://www.kickstarter.com/) | [10 years](https://medium.com/@BreakoutList/tech-startups-that-give-employees-a-large-window-to-exercise-options-32f6cb3afde4#.ndzkru86k)
 [Meadow](https://getmeadow.com) | 10 years
 [Patreon](https://www.patreon.com/) | 7 years | After 2 years of employment
 [Persista](http://persista.com) | 1 year
