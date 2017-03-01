@@ -44,6 +44,7 @@ Name | Exercise Window | Additional details
 [Mashgin](http://mashgin.com/) | [10 years](https://triplebyte.com/startup/mashgin)
 [Meadow](https://getmeadow.com) | 10 years
 [Mixpanel](https://mixpanel.com) | 5 years | After 2 years of employment
+[Neighborly](https://neighborly.com/) | 10 years
 [Open Listings](https://www.openlistings.com/) | [3 years](https://triplebyte.com/startup/open-listings)
 [Outschool](https://outschool.com/) | [10 years](https://triplebyte.com/startup/outschool)
 [Pachyderm](http://pachyderm.io/) | [3 years](https://triplebyte.com/startup/pachyderm)
