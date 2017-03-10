@@ -59,6 +59,7 @@ Name | Exercise Window | Additional details
 [Segment](https://segment.com) | [10 years](https://twitter.com/calvinfo/status/622550129518612481)
 [SigOpt](https://sigopt.com/) | [7 years](https://triplebyte.com/startup/sigopt)
 [Snapdocs](https://www.snapdocs.com/) | [10 years](https://triplebyte.com/startup/snapdocs)
+[Strava](https://www.strava.com/) | 5 years | After 2 years of employment
 [Supply](http://www.madebysupply.com/) | [10 years](https://triplebyte.com/startup/supply)
 [Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
 [Tettra](http://tettra.co) | 5 years
