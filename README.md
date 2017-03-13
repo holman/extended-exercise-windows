@@ -16,6 +16,7 @@ Name | Exercise Window | Additional details
 [Braid](https://braidhq.com) | 5 years
 [Buffer](https://buffer.com) | [10 years](https://open.buffer.com/explaining-equity/)
 [BuildZoom](https://www.buildzoom.com/) | [10 years](https://triplebyte.com/startup/buildzoom)
+[Checkr](https://checkr.com) | 10 years
 [Cinder](https://cindercooks.com/) | [10 years](https://triplebyte.com/startup/cinder)
 [Circle Medical](https://www.circlemedical.com/) | [5 years](https://triplebyte.com/startup/circle-medical)
 [Clearbit](https://clearbit.com) | [10 years](http://blog.clearbit.com/stock)
