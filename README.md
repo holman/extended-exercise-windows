@@ -52,6 +52,7 @@ Name | Exercise Window | Additional details
 [Patreon](https://www.patreon.com/) | 7 years | After 2 years of employment
 [Persista](http://persista.com) | 1 year
 [Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
+[Puppet](https://puppet.com) | 1 year | After 2 years of employment
 [Quora](https://quora.com) | [10 years](https://twitter.com/adamdangelo/status/623734971090518017)
 [Razorpay](https://razorpay.com/) | 7 years
 [ReadMe.io](http://readme.io/) | [7 years](https://triplebyte.com/startup/readme-io)
