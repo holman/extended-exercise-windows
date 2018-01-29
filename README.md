@@ -21,6 +21,7 @@ Name | Exercise Window | Additional details
 [Circle Medical](https://www.circlemedical.com/) | [5 years](https://triplebyte.com/startup/circle-medical)
 [Clearbit](https://clearbit.com) | [10 years](http://blog.clearbit.com/stock)
 [Clef](https://getclef.com) | [7 years](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md#exercising-your-options)
+[Clippings](https://clippings.com) | [10 years](https://github.com/clippings/join-us/blob/master/share-options.md#readme)
 [CodeCombat](http://codecombat.com) | 10 years
 [Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years of employment
 [Cymmetria](https://www.cymmetria.com/) | [3 years](https://triplebyte.com/startup/cymmetria)
