@@ -10,6 +10,7 @@ Name | Exercise Window | Additional details
 ---- | ---- | ----
 [Affirm](https://www.affirm.com/) | 7 years
 [Alien Labs](https://alien.ai) | [10 years](https://twitter.com/mirceap/status/704442936906412033) | After 2 years of employment
+[Alloy](https://alloy.ai) | 10 years
 [Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
 [Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
 [Bonsai](https://www.hellobonsai.com/) | [10 years](https://triplebyte.com/startup/bonsai)
