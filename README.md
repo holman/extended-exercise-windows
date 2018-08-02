@@ -50,6 +50,7 @@ Name | Exercise Window | Additional details
 [Mixpanel](https://mixpanel.com) | [5 years](https://blog.mixpanel.com/2017/03/14/employee-equity/) | After 2 years of employment
 [Neighborly](https://neighborly.com/) | 10 years
 [Open Listings](https://www.openlistings.com/) | [3 years](https://triplebyte.com/startup/open-listings)
+[Opendoor](https://www.opendoor.com/) | [3 years]| After 3 years of employment
 [Outschool](https://outschool.com/) | [10 years](https://triplebyte.com/startup/outschool)
 [Pachyderm](http://pachyderm.io/) | [3 years](https://triplebyte.com/startup/pachyderm)
 [Patreon](https://www.patreon.com/) | 7 years | After 2 years of employment
