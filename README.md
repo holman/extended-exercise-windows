@@ -69,6 +69,7 @@ Name | Exercise Window | Additional details
 [Strava](https://www.strava.com/) | 5 years | After 2 years of employment
 [Streak](https://www.streak.com/) | 10 years
 [Supply](http://www.madebysupply.com/) | [10 years](https://triplebyte.com/startup/supply)
+[Swing Education](https://swingeducation.com) | 5 years 
 [Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
 [Tettra](http://tettra.co) | 5 years
 [Thread](https://www.thread.com/) | 10 years
