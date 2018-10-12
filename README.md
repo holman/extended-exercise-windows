@@ -84,4 +84,7 @@ Name | Exercise Window | Additional details
 
 ## VCs
 
-It's worth noting that Andreessen Horowitz [has come out in strong favor of the 90 day window](http://a16z.com/2016/06/23/options-timing/). If you feel strongly about extended exercise windows, it might be worth considering whether a16z portfolio companies are a good fit for you.
+Name | Recommended Exercise Window
+---- | ----
+[Andreessen Horowitz](https://a16z.com/) | [10 years](https://a16z.com/2016/07/26/options-plan/)
+[Y Combinator](http://www.ycombinator.com/) | [10 years](https://triplebyte.com/blog/fixing-the-inequity-of-startup-equity)
