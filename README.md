@@ -33,7 +33,7 @@ Name | Exercise Window | Additional details
 [Ginkgo Bioworks](http://www.ginkgobioworks.com/) | [5 years](https://triplebyte.com/startup/ginkgo-bioworks)
 [GiveCampus](https://www.givecampus.com/) | [10 years](https://triplebyte.com/startup/givecampus)
 [GoCardless](https://gocardless.com) | 10 years
-[Gusto](https://gusto.com/) | [10 years](https://triplebyte.com/startup/gusto)
+[Gusto](https://gusto.com/) | [10 years](https://triplebyte.com/startup/gusto) | After 3 years of employment
 [Heap](https://heapanalytics.com) | 10 years
 [Her](https://weareher.com/) | [3 years](https://triplebyte.com/startup/her)
 [Hykso](https://www.hykso.com/) | [3 years](https://triplebyte.com/startup/hykso)
