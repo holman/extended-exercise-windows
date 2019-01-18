@@ -26,6 +26,7 @@ Name | Exercise Window | Additional details
 [CodeCombat](http://codecombat.com) | 10 years
 [Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years of employment
 [Cymmetria](https://www.cymmetria.com/) | [3 years](https://triplebyte.com/startup/cymmetria)
+[Desmos](https://www.desmos.com/careers) | 7 years
 [Eve](http://witheve.com/) | [7 years](https://triplebyte.com/startup/eve)
 [Expensify](https://expensify.com) | [2 years](http://blog.expensify.com/2015/10/05/building-a-pro-employee-company-updating-equity-distribution-at-expensify/) | After 3 years of employment
 [Experiment](https://experiment.com/) | [7 years](https://triplebyte.com/startup/experiment)
