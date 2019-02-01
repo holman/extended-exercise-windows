@@ -33,6 +33,7 @@ Name | Exercise Window | Additional details
 [Flexport](https://www.flexport.com/) | [10 years](https://www.flexport.com/blog/10-year-option-exercise-window/)
 [Ginkgo Bioworks](http://www.ginkgobioworks.com/) | [5 years](https://triplebyte.com/startup/ginkgo-bioworks)
 [GiveCampus](https://www.givecampus.com/) | [10 years](https://triplebyte.com/startup/givecampus)
+[Glitch](https://glitch.com/) | [10 years](https://handbook.glitch.me/#compensation-and-equity)
 [GoCardless](https://gocardless.com) | 10 years
 [Gusto](https://gusto.com/) | [10 years](https://triplebyte.com/startup/gusto) | After 3 years of employment
 [Heap](https://heapanalytics.com) | 10 years
