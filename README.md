@@ -13,6 +13,7 @@ Name | Exercise Window | Additional details
 [Alloy](https://alloy.ai) | 10 years
 [Alto](https://alto.com) | 2 years | After 2 years of employment
 [Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
+[AngelList](https://angel.co) | [10 years](https://angel.co/angellist)
 [Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
 [Bonsai](https://www.hellobonsai.com/) | [10 years](https://triplebyte.com/startup/bonsai)
 [Braid](https://braidhq.com) | 5 years
