@@ -50,6 +50,7 @@ Name | Exercise Window | Additional details
 [Ladder](https://ladderlife.com/) | 7 years | After 2 years of employment
 [Lattice](https://latticehq.com/) | [3 years](https://triplebyte.com/startup/lattice)
 [Lawn Love](https://lawnlove.com/) | [7 years](hhttps://triplebyte.com/startup/lawn-love)
+[Lightstep](https://lightstep.com/) | 1 year
 [Mashgin](http://mashgin.com/) | [10 years](https://triplebyte.com/startup/mashgin)
 [Meadow](https://getmeadow.com) | 10 years
 [Mixpanel](https://mixpanel.com) | [5 years](https://blog.mixpanel.com/2017/03/14/employee-equity/) | After 2 years of employment
