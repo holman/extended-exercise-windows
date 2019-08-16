@@ -47,6 +47,7 @@ Name | Exercise Window | Additional details
 [Kayako](https://www.kayako.com) | [10 years](https://twitter.com/jmedwards/status/685778938992410625)
 [Kickback](https://kickback.com/) | [7 years](https://triplebyte.com/startup/kickback)
 [Kickstarter](https://www.kickstarter.com/) | [10 years](https://medium.com/@BreakoutList/tech-startups-that-give-employees-a-large-window-to-exercise-options-32f6cb3afde4#.ndzkru86k)
+[Kite](https://kite.com/) | 10 years | After 3 years of employment
 [Ladder](https://ladderlife.com/) | 7 years | After 2 years of employment
 [Lattice](https://latticehq.com/) | [3 years](https://triplebyte.com/startup/lattice)
 [Lawn Love](https://lawnlove.com/) | [7 years](hhttps://triplebyte.com/startup/lawn-love)
