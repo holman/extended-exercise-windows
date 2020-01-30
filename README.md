@@ -29,6 +29,7 @@ Name | Exercise Window | Additional details
 [Clippings](https://clippings.com) | [10 years](https://github.com/clippings/join-us/blob/master/share-options.md#readme)
 [CodeCombat](http://codecombat.com) | 10 years
 [Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years of employment
+[CoinTracker](https://www.cointracker.io) | [10 years](https://triplebyte.com/company/public/cointracker)
 [Cymmetria](https://www.cymmetria.com/) | [3 years](https://triplebyte.com/startup/cymmetria)
 [Desmos](https://www.desmos.com/careers) | 7 years
 [Eve](http://witheve.com/) | [7 years](https://triplebyte.com/startup/eve)
