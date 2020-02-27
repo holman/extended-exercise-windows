@@ -59,6 +59,7 @@ Name | Exercise Window | Additional details
 [Meadow](https://getmeadow.com) | 10 years
 [Mixpanel](https://mixpanel.com) | [5 years](https://blog.mixpanel.com/2017/03/14/employee-equity/) | After 2 years of employment
 [Neighborly](https://neighborly.com/) | 10 years
+[Ockam](https://www.ockam.io/) | [5 years](https://www.ockam.io/team) | After 2 years of employment
 [Omada Health](https://www.omadahealth.com/) | [5 years](https://boards.greenhouse.io/omadahealth/jobs/1501140) | After 3 years of employment
 [OneSignal](https://www.onesignal.com/) | 10 years | After 2 years of employment
 [Open Listings](https://www.openlistings.com/) | [3 years](https://triplebyte.com/startup/open-listings)
@@ -81,7 +82,7 @@ Name | Exercise Window | Additional details
 [Strava](https://www.strava.com/) | 5 years | After 2 years of employment
 [Streak](https://www.streak.com/) | 10 years
 [Supply](http://www.madebysupply.com/) | [10 years](https://triplebyte.com/startup/supply)
-[Swing Education](https://swingeducation.com) | 5 years 
+[Swing Education](https://swingeducation.com) | 5 years
 [Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
 [Tettra](http://tettra.co) | 5 years
 [Thread](https://www.thread.com/) | 10 years
