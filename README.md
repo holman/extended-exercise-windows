@@ -73,6 +73,7 @@ Name | Exercise Window | Additional details
 [Quora](https://quora.com) | [10 years](https://twitter.com/adamdangelo/status/623734971090518017)
 [Razorpay](https://razorpay.com/) | 7 years
 [ReadMe.io](http://readme.io/) | [7 years](https://triplebyte.com/startup/readme-io)
+[Saleswhale](https://www.saleswhale.com) | 10 years
 [Scale](https://www.scaleapi.com/) | 5 years | After 2 years of employment
 [Science Exchange](https://www.scienceexchange.com/) | [7 years](https://triplebyte.com/startup/science-exchange)
 [Seed](https://seed.co/) | [5 years](https://triplebyte.com/startup/seed)
