@@ -22,6 +22,7 @@ Name | Exercise Window | Additional details
 [Buffer](https://buffer.com) | [10 years](https://open.buffer.com/explaining-equity/)
 [BuildZoom](https://www.buildzoom.com/) | [10 years](https://triplebyte.com/startup/buildzoom)
 [Carta](https://carta.com) | [1 year for each year of vesting](https://carta.com/blog/pte-vesting/)
+[Castle](https://castle.io) | 10 year
 [Checkr](https://checkr.com) | 10 years | After 2 years of employment
 [Cinder](https://cindercooks.com/) | [10 years](https://triplebyte.com/startup/cinder)
 [Circle Medical](https://www.circlemedical.com/) | [5 years](https://triplebyte.com/startup/circle-medical)
