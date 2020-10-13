@@ -21,8 +21,8 @@ Name | Exercise Window | Additional details
 [Braid](https://braidhq.com) | 5 years
 [Buffer](https://buffer.com) | [10 years](https://open.buffer.com/explaining-equity/)
 [BuildZoom](https://www.buildzoom.com/) | [10 years](https://triplebyte.com/startup/buildzoom)
-[Carta](https://carta.com) | [1 year for each year of employment](https://carta.com/blog/pte-vesting/)
-[Castle](https://castle.io) | 10 years
+[Carta](https://carta.com) | [1 year for each year of vesting](https://carta.com/blog/pte-vesting/)
+[Castle](https://castle.io) | 10 year
 [Checkr](https://checkr.com) | 10 years | After 2 years of employment
 [Cinder](https://cindercooks.com/) | [10 years](https://triplebyte.com/startup/cinder)
 [Circle Medical](https://www.circlemedical.com/) | [5 years](https://triplebyte.com/startup/circle-medical)
@@ -47,6 +47,7 @@ Name | Exercise Window | Additional details
 [Her](https://weareher.com/) | [3 years](https://triplebyte.com/startup/her)
 [Hykso](https://www.hykso.com/) | [3 years](https://triplebyte.com/startup/hykso)
 [Instacart](https://www.instacart.com) | 7 years
+[Intellimize](https://www.intellimize.com) | 2 years
 [Ironclad](https://www.ironcladapp.com/) | [3 years](https://triplebyte.com/startup/ironclad)
 [Kayako](https://www.kayako.com) | [10 years](https://twitter.com/jmedwards/status/685778938992410625)
 [Kickback](https://kickback.com/) | [7 years](https://triplebyte.com/startup/kickback)
