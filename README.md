@@ -67,6 +67,7 @@ Name | Exercise Window | Additional details
 [Open Listings](https://www.openlistings.com/) | [3 years](https://triplebyte.com/startup/open-listings)
 [Opendoor](https://www.opendoor.com/) | 3 years | After 3 years of employment
 [Outschool](https://outschool.com/) | [10 years](https://triplebyte.com/startup/outschool)
+[Oxide](https://oxide.computer/) | 7 years
 [Pachyderm](http://pachyderm.io/) | [3 years](https://triplebyte.com/startup/pachyderm)
 [Patreon](https://www.patreon.com/) | 7 years | After 2 years of employment
 [Persista](http://persista.com) | 1 year
