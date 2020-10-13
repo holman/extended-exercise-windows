@@ -15,7 +15,6 @@ Name | Exercise Window | Additional details
 [Alto](https://alto.com) | 2 years | After 2 years of employment
 [Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
 [AngelList](https://angel.co) | [10 years](https://angel.co/angellist)
-[Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
 [Begin](https://begin.com/) | 2-5 years | After 2 years of employment, with each year of employment adding another year to the window
 [Bonsai](https://www.hellobonsai.com/) | [10 years](https://triplebyte.com/startup/bonsai)
 [Braid](https://braidhq.com) | 5 years
@@ -100,6 +99,13 @@ Name | Exercise Window | Additional details
 [Wave](http://www.wave.com/) | [10 years](https://triplebyte.com/startup/wave)
 [Wefunder](https://wefunder.com/) | [3 years](https://triplebyte.com/startup/wefunder)
 [Zenysis](http://www.zenysis.com/) | [10 years](https://triplebyte.com/startup/zenysis)
+
+## Previously-extended windows
+There are some companies that *started out* with an extended exercise window, but reached some sort of endpoint (IPO, acquisition, etc) where an exercise window isn't relevant these days. It's still great to see these companies start from solid beginnings, though, so we'd still like to continue to acknowledge them here, especially since they likely have chosen other fair policies that still are important today.
+
+Name | Exercise Window | Additional details
+---- | ---- | ----
+[Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
 
 ## VCs
 
