@@ -46,6 +46,7 @@ Name | Exercise Window | Additional details
 [Her](https://weareher.com/) | [3 years](https://triplebyte.com/startup/her)
 [Hykso](https://www.hykso.com/) | [3 years](https://triplebyte.com/startup/hykso)
 [Instacart](https://www.instacart.com) | 7 years
+[Intellimize](https://www.intellimize.com) | 2 years
 [Ironclad](https://www.ironcladapp.com/) | [3 years](https://triplebyte.com/startup/ironclad)
 [Kayako](https://www.kayako.com) | [10 years](https://twitter.com/jmedwards/status/685778938992410625)
 [Kickback](https://kickback.com/) | [7 years](https://triplebyte.com/startup/kickback)
