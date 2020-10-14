@@ -15,14 +15,14 @@ Name | Exercise Window | Additional details
 [Alto](https://alto.com) | 2 years | After 2 years of employment
 [Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
 [AngelList](https://angel.co) | [10 years](https://angel.co/angellist)
-[Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
 [Begin](https://begin.com/) | 2-5 years | After 2 years of employment, with each year of employment adding another year to the window
 [Bonsai](https://www.hellobonsai.com/) | [10 years](https://triplebyte.com/startup/bonsai)
 [Braid](https://braidhq.com) | 5 years
 [Buffer](https://buffer.com) | [10 years](https://open.buffer.com/explaining-equity/)
 [BuildZoom](https://www.buildzoom.com/) | [10 years](https://triplebyte.com/startup/buildzoom)
 [Carmera](https://carmera.com) | [10 years](https://twitter.com/jessaylaz/status/1316044523320094725) | After 2 years of employment
-[Carta](https://carta.com) | [1 year for each year of employment](https://carta.com/blog/pte-vesting/)
+[Carta](https://carta.com) | [1 year for each year of vesting](https://carta.com/blog/pte-vesting/)
+[Castle](https://castle.io) | 10 year
 [Checkr](https://checkr.com) | 10 years | After 2 years of employment
 [Cinder](https://cindercooks.com/) | [10 years](https://triplebyte.com/startup/cinder)
 [Circle Medical](https://www.circlemedical.com/) | [5 years](https://triplebyte.com/startup/circle-medical)
@@ -47,6 +47,7 @@ Name | Exercise Window | Additional details
 [Her](https://weareher.com/) | [3 years](https://triplebyte.com/startup/her)
 [Hykso](https://www.hykso.com/) | [3 years](https://triplebyte.com/startup/hykso)
 [Instacart](https://www.instacart.com) | 7 years
+[Intellimize](https://www.intellimize.com) | 2 years
 [Ironclad](https://www.ironcladapp.com/) | [3 years](https://triplebyte.com/startup/ironclad)
 [Kayako](https://www.kayako.com) | [10 years](https://twitter.com/jmedwards/status/685778938992410625)
 [Kickback](https://kickback.com/) | [7 years](https://triplebyte.com/startup/kickback)
@@ -67,10 +68,12 @@ Name | Exercise Window | Additional details
 [Open Listings](https://www.openlistings.com/) | [3 years](https://triplebyte.com/startup/open-listings)
 [Opendoor](https://www.opendoor.com/) | 3 years | After 3 years of employment
 [Outschool](https://outschool.com/) | [10 years](https://triplebyte.com/startup/outschool)
+[Oxide](https://oxide.computer/) | 7 years
 [Pachyderm](http://pachyderm.io/) | [3 years](https://triplebyte.com/startup/pachyderm)
 [Patreon](https://www.patreon.com/) | 7 years | After 2 years of employment
 [Persista](http://persista.com) | 1 year
 [Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
+[Postscript](https://postscript.io) | 8 years | After 2 years of employment
 [Puppet](https://puppet.com) | 1 year | After 2 years of employment
 [Quora](https://quora.com) | [10 years](https://twitter.com/adamdangelo/status/623734971090518017)
 [Razorpay](https://razorpay.com/) | 7 years
@@ -99,6 +102,13 @@ Name | Exercise Window | Additional details
 [Wave](http://www.wave.com/) | [10 years](https://triplebyte.com/startup/wave)
 [Wefunder](https://wefunder.com/) | [3 years](https://triplebyte.com/startup/wefunder)
 [Zenysis](http://www.zenysis.com/) | [10 years](https://triplebyte.com/startup/zenysis)
+
+## Previously-extended windows
+There are some companies that *started out* with an extended exercise window, but reached some sort of endpoint (IPO, acquisition, etc) where an exercise window isn't relevant these days. It's still great to see these companies start from solid beginnings, though, so we'd still like to continue to acknowledge them here, especially since they likely have chosen other fair policies that still are important today.
+
+Name | Exercise Window | Additional details
+---- | ---- | ----
+[Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
 
 ## VCs
 
