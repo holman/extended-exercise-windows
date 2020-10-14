@@ -21,6 +21,7 @@ Name | Exercise Window | Additional details
 [Braid](https://braidhq.com) | 5 years
 [Buffer](https://buffer.com) | [10 years](https://open.buffer.com/explaining-equity/)
 [BuildZoom](https://www.buildzoom.com/) | [10 years](https://triplebyte.com/startup/buildzoom)
+[Carmera](https://carmera.com) | [10 years](https://twitter.com/jessaylaz/status/1316044523320094725) | After 2 years of employment
 [Carta](https://carta.com) | [1 year for each year of employment](https://carta.com/blog/pte-vesting/)
 [Checkr](https://checkr.com) | 10 years | After 2 years of employment
 [Cinder](https://cindercooks.com/) | [10 years](https://triplebyte.com/startup/cinder)
