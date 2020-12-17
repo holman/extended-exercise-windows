@@ -15,6 +15,7 @@ Name | Exercise Window | Additional details
 [Alto](https://alto.com) | 2 years | After 2 years of employment
 [Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
 [AngelList](https://angel.co) | [10 years](https://angel.co/angellist)
+[BaseDash](https://www.basedash.com) | 10 years
 [Begin](https://begin.com/) | 2-5 years | After 2 years of employment, with each year of employment adding another year to the window
 [Bonsai](https://www.hellobonsai.com/) | [10 years](https://triplebyte.com/startup/bonsai)
 [Braid](https://braidhq.com) | 5 years
