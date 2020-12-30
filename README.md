@@ -20,6 +20,7 @@ Name | Exercise Window | Additional details
 [Bonsai](https://www.hellobonsai.com/) | [10 years](https://triplebyte.com/startup/bonsai)
 [Braid](https://braidhq.com) | 5 years
 [Buffer](https://buffer.com) | [10 years](https://open.buffer.com/explaining-equity/)
+[Buildkite](https://buildkite.com) | [15 years](https://twitter.com/lox/status/1344246056494616576)
 [BuildZoom](https://www.buildzoom.com/) | [10 years](https://triplebyte.com/startup/buildzoom)
 [Carmera](https://carmera.com) | [10 years](https://twitter.com/jessaylaz/status/1316044523320094725) | After 2 years of employment
 [Carta](https://carta.com) | [1 year for each year of vesting](https://carta.com/blog/pte-vesting/)
