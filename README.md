@@ -86,6 +86,7 @@ Name | Exercise Window | Additional details
 [Seed](https://seed.co/) | [5 years](https://triplebyte.com/startup/seed)
 [Segment](https://segment.com) | [10 years](https://twitter.com/calvinfo/status/622550129518612481)
 [SigOpt](https://sigopt.com/) | [7 years](https://triplebyte.com/startup/sigopt)
+[Smallstep](https://smallstep.com) | 10 years
 [Snapdocs](https://www.snapdocs.com/) | [10 years](https://triplebyte.com/startup/snapdocs)
 [Strava](https://www.strava.com/) | 5 years | After 2 years of employment
 [Streak](https://www.streak.com/) | 10 years
