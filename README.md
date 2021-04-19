@@ -38,6 +38,7 @@ Name | Exercise Window | Additional details
 [Cymmetria](https://www.cymmetria.com/) | [3 years](https://triplebyte.com/startup/cymmetria)
 [Desmos](https://www.desmos.com/careers) | 7 years
 [Eve](http://witheve.com/) | [7 years](https://triplebyte.com/startup/eve)
+[Even](https://www.even.com/careers) | [5 years](http://triplebyte.com/startup/even) | After 2 years of employment
 [Expensify](https://expensify.com) | [2 years](http://blog.expensify.com/2015/10/05/building-a-pro-employee-company-updating-equity-distribution-at-expensify/) | After 3 years of employment
 [Experiment](https://experiment.com/) | [7 years](https://triplebyte.com/startup/experiment)
 [Figure](https://www.figurehr.com/) | 10 years
