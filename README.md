@@ -10,6 +10,7 @@ Name | Exercise Window | Additional details
 ---- | ---- | ----
 [Ada](https://www.ada.support/) | 5 years | After 2 years of employment
 [Affirm](https://www.affirm.com/) | 7 years | After 2 years of employment
+[Alan](https://alan.com) | 7 years
 [Alien Labs](https://alien.ai) | [10 years](https://twitter.com/mirceap/status/704442936906412033) | After 2 years of employment
 [Alloy](https://alloy.ai) | 10 years
 [Alto](https://alto.com) | 2 years | After 2 years of employment
