@@ -79,6 +79,7 @@ Name | Exercise Window | Additional details
 [Pachyderm](http://pachyderm.io/) | [3 years](https://triplebyte.com/startup/pachyderm)
 [Patreon](https://www.patreon.com/) | 7 years | After 2 years of employment
 [Persista](http://persista.com) | 1 year
+[Pex](https://pex.com) | 10 years
 [PhotoRoom](https://www.photoroom.com) | 10 years | After 2 years of employment
 [Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
 [Postscript](https://postscript.io) | 8 years | After 2 years of employment
