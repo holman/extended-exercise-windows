@@ -88,6 +88,7 @@ Name | Exercise Window | Additional details
 [Razorpay](https://razorpay.com/) | 7 years
 [ReadMe](http://readme.com/) | [10 years](https://readme.com/handbook)
 [RevenueCat](https://revenuecat.com/) | 10 years
+[Rewatch](https://rewatch.com/) | 7 years
 [Saleswhale](https://www.saleswhale.com) | 10 years
 [Scale](https://www.scaleapi.com/) | 5 years | After 2 years of employment
 [Science Exchange](https://www.scienceexchange.com/) | [7 years](https://triplebyte.com/startup/science-exchange)
