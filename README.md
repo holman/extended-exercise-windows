@@ -63,6 +63,7 @@ Name | Exercise Window | Additional details
 [Lattice](https://latticehq.com/) | [3 years](https://triplebyte.com/startup/lattice)
 [Lawn Love](https://lawnlove.com/) | [7 years](hhttps://triplebyte.com/startup/lawn-love)
 [Lightstep](https://lightstep.com/) | 1 year
+[Loom](https://loom.com/) | 10 years | After 2 years of employment
 [Mashgin](http://mashgin.com/) | [10 years](https://triplebyte.com/startup/mashgin)
 [Meadow](https://getmeadow.com) | 10 years
 [Mercury](https://mercury.com) | 7 years
