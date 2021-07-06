@@ -52,6 +52,7 @@ Name | Exercise Window | Additional details
 [Heap](https://heapanalytics.com) | 10 years
 [Her](https://weareher.com/) | [3 years](https://triplebyte.com/startup/her)
 [Hykso](https://www.hykso.com/) | [3 years](https://triplebyte.com/startup/hykso)
+[Infracost](https://www.infracost.io) | 10 years | After 2 years of employment
 [Instacart](https://www.instacart.com) | 7 years
 [Intellimize](https://www.intellimize.com) | 2 years
 [Ironclad](https://www.ironcladapp.com/) | [3 years](https://triplebyte.com/startup/ironclad)
