@@ -11,7 +11,6 @@ Name | Exercise Window | Additional details
 [Ada](https://www.ada.support/) | 5 years | After 2 years of employment
 [Affirm](https://www.affirm.com/) | 7 years | After 2 years of employment
 [Alan](https://alan.com) | 7 years
-[Alien Labs](https://alien.ai) | [10 years](https://twitter.com/mirceap/status/704442936906412033) | After 2 years of employment
 [Alloy](https://alloy.ai) | 10 years
 [Alto](https://alto.com) | 2 years | After 2 years of employment
 [Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
@@ -36,7 +35,6 @@ Name | Exercise Window | Additional details
 [CodeCombat](http://codecombat.com) | 10 years
 [Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years of employment
 [CoinTracker](https://www.cointracker.io) | [10 years](https://triplebyte.com/company/public/cointracker)
-[Cymmetria](https://www.cymmetria.com/) | [3 years](https://triplebyte.com/startup/cymmetria)
 [Desmos](https://www.desmos.com/careers) | 7 years
 [Eve](http://witheve.com/) | [7 years](https://triplebyte.com/startup/eve)
 [Even](https://www.even.com/careers) | [5 years](http://triplebyte.com/startup/even) | After 2 years of employment
@@ -63,7 +61,7 @@ Name | Exercise Window | Additional details
 [Kite](https://kite.com/) | 10 years | After 3 years of employment
 [Ladder](https://ladderlife.com/) | 7 years | After 2 years of employment
 [Lattice](https://latticehq.com/) | [3 years](https://triplebyte.com/startup/lattice)
-[Lawn Love](https://lawnlove.com/) | [7 years](hhttps://triplebyte.com/startup/lawn-love)
+[Lawn Love](https://lawnlove.com/) | [7 years](https://triplebyte.com/startup/lawn-love)
 [Lightstep](https://lightstep.com/) | 1 year
 [Lingokids](https://lingokids.com/) | 7 years | After 2 years of employment
 [Loom](https://loom.com/) | 10 years | After 2 years of employment
@@ -107,7 +105,6 @@ Name | Exercise Window | Additional details
 [Snapdocs](https://www.snapdocs.com/) | [10 years](https://triplebyte.com/startup/snapdocs)
 [Strava](https://www.strava.com/) | 5 years | After 2 years of employment
 [Streak](https://www.streak.com/) | 10 years
-[Supply](http://www.madebysupply.com/) | [10 years](https://triplebyte.com/startup/supply)
 [Swing Education](https://swingeducation.com) | 5 years
 [Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
 [Tettra](http://tettra.co) | 5 years
@@ -115,7 +112,6 @@ Name | Exercise Window | Additional details
 [TransferWise](https://transferwise.com/) | 10 years
 [Trim](http://www.asktrim.com/) | 7 years
 [Triplebyte](https://triplebyte.com) | [10 years ](https://data.triplebyte.com/extending-stock-option-exercise-window-guide-43821b47cbbd)
-[TrueAccord](https://trueaccord.com) | [7 years](http://blog.trueaccord.com/2016/06/why-we-chose-a-7-year-exercise-window-and-other-startup-thoughts/) | After 2 years of employment
 [Upstart](https://www.upstart.com/) | 10 years
 [Wasmer](https://wasmer.io/) | 7 years | After 2 years of employment
 [Wave](http://www.wave.com/) | [10 years](https://triplebyte.com/startup/wave)
@@ -127,7 +123,10 @@ There are some companies that *started out* with an extended exercise window, bu
 
 Name | Exercise Window | Additional details
 ---- | ---- | ----
+[Alien Labs](https://alien.ai) | [10 years](https://twitter.com/mirceap/status/704442936906412033) | After 2 years of employment
 [Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
+[Cymmetria](https://www.cymmetria.com/) | [3 years](https://triplebyte.com/startup/cymmetria)
+[Supply](http://www.madebysupply.com/) | 10 years
 
 ## VCs
 
