@@ -53,7 +53,7 @@ Name | Exercise Window | Additional details
 [Her](https://weareher.com/) | [3 years](https://triplebyte.com/startup/her)
 [Honeycomb](https://honeycomb.io) | 1-7 years | 2 months per month of vesting after 1 year of employment
 [Hykso](https://www.hykso.com/) | [3 years](https://triplebyte.com/startup/hykso)
-[Infracost](https://www.infracost.io) | 10 years | After 2 years of employment
+[Infracost](https://www.infracost.io) | [10 years](https://www.abar.tech/articles/10yr-excercise-window/) | After 2 years of employment
 [Instacart](https://www.instacart.com) | 7 years
 [Intellimize](https://www.intellimize.com) | 2 years
 [Ironclad](https://www.ironcladapp.com/) | [3 years](https://triplebyte.com/startup/ironclad)
