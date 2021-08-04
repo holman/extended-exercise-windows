@@ -9,6 +9,7 @@ For more information, read [this post](http://zachholman.com/posts/fuck-your-90-
 Name | Exercise Window | Additional details
 ---- | ---- | ----
 [Ada](https://www.ada.support/) | 5 years | After 2 years of employment
+[Aerotime](https://aerotime.com/) | 10 years | After 2 years of employment
 [Affirm](https://www.affirm.com/) | 7 years | After 2 years of employment
 [Alan](https://alan.com) | 7 years
 [Alloy](https://alloy.ai) | 10 years
