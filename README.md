@@ -10,7 +10,6 @@ Name | Exercise Window | Additional details
 ---- | ---- | ----
 [Ada](https://www.ada.support/) | 5 years | After 2 years of employment
 [Aerotime](https://aerotime.com/) | 10 years | After 2 years of employment
-[Affirm](https://www.affirm.com/) | 7 years | After 2 years of employment
 [Alan](https://alan.com) | 7 years
 [Alloy](https://alloy.ai) | 10 years
 [Alto](https://alto.com) | 2 years | After 2 years of employment
@@ -31,10 +30,8 @@ Name | Exercise Window | Additional details
 [Cinder](https://cindercooks.com/) | [10 years](https://triplebyte.com/startup/cinder)
 [Circle Medical](https://www.circlemedical.com/) | [5 years](https://triplebyte.com/startup/circle-medical)
 [Clearbit](https://clearbit.com) | [10 years](http://blog.clearbit.com/stock)
-[Clef](https://getclef.com) | [7 years](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md#exercising-your-options)
 [Clippings](https://clippings.com) | [10 years](https://github.com/clippings/join-us/blob/master/share-options.md#readme)
 [CodeCombat](http://codecombat.com) | 10 years
-[Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years of employment
 [CoinTracker](https://www.cointracker.io) | [10 years](https://triplebyte.com/company/public/cointracker)
 [Desmos](https://www.desmos.com/careers) | 7 years
 [Eve](http://witheve.com/) | [7 years](https://triplebyte.com/startup/eve)
@@ -88,7 +85,6 @@ Name | Exercise Window | Additional details
 [Persista](http://persista.com) | 1 year
 [Pex](https://pex.com) | 10 years
 [PhotoRoom](https://www.photoroom.com) | 10 years | After 2 years of employment
-[Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
 [Postscript](https://postscript.io) | 8 years | After 2 years of employment
 [Puppet](https://puppet.com) | 1 year | After 2 years of employment
 [Quora](https://quora.com) | [10 years](https://twitter.com/adamdangelo/status/623734971090518017)
@@ -100,7 +96,6 @@ Name | Exercise Window | Additional details
 [Scale](https://www.scaleapi.com/) | 5 years | After 2 years of employment
 [Science Exchange](https://www.scienceexchange.com/) | [7 years](https://triplebyte.com/startup/science-exchange)
 [Seed](https://seed.co/) | [5 years](https://triplebyte.com/startup/seed)
-[Segment](https://segment.com) | [10 years](https://twitter.com/calvinfo/status/622550129518612481)
 [SigOpt](https://sigopt.com/) | [7 years](https://triplebyte.com/startup/sigopt)
 [Smallstep](https://smallstep.com) | 10 years
 [Snapdocs](https://www.snapdocs.com/) | [10 years](https://triplebyte.com/startup/snapdocs)
@@ -125,9 +120,14 @@ There are some companies that *started out* with an extended exercise window, bu
 
 Name | Exercise Window | Additional details
 ---- | ---- | ----
+[Affirm](https://www.affirm.com/) | 7 years | After 2 years of employment
 [Alien Labs](https://alien.ai) | [10 years](https://twitter.com/mirceap/status/704442936906412033) | After 2 years of employment
 [Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
+[Clef](https://getclef.com) | [7 years](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md#exercising-your-options)
+[Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years of employment
 [Cymmetria](https://www.cymmetria.com/) | [3 years](https://triplebyte.com/startup/cymmetria)
+[Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
+[Segment](https://segment.com) | [10 years](https://twitter.com/calvinfo/status/622550129518612481)
 [Supply](http://www.madebysupply.com/) | 10 years
 
 ## VCs
