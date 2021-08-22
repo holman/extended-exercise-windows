@@ -33,6 +33,7 @@ Name | Exercise Window | Additional details
 [Clippings](https://clippings.com) | [10 years](https://github.com/clippings/join-us/blob/master/share-options.md#readme)
 [CodeCombat](http://codecombat.com) | 10 years
 [CoinTracker](https://www.cointracker.io) | [10 years](https://triplebyte.com/company/public/cointracker)
+[Column Tax](https://jobs.columntax.com/) | 10 years
 [Desmos](https://www.desmos.com/careers) | 7 years
 [Eve](http://witheve.com/) | [7 years](https://triplebyte.com/startup/eve)
 [Even](https://www.even.com/careers) | [5 years](http://triplebyte.com/startup/even) | After 2 years of employment
