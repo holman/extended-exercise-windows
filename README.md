@@ -102,6 +102,7 @@ Name | Exercise Window | Additional details
 [Skyflow](https://www.skyflow.com/) | 10 years
 [Smallstep](https://smallstep.com) | 10 years
 [Snapdocs](https://www.snapdocs.com/) | [10 years](https://triplebyte.com/startup/snapdocs)
+[Sourcegraph](https://about.sourcegraph.com/) | 10 years
 [Strava](https://www.strava.com/) | 5 years | After 2 years of employment
 [Streak](https://www.streak.com/) | 10 years
 [Swing Education](https://swingeducation.com) | 5 years
