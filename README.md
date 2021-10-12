@@ -32,6 +32,7 @@ Name | Exercise Window | Additional details
 [Clearbit](https://clearbit.com) | [10 years](http://blog.clearbit.com/stock)
 [Clippings](https://clippings.com) | [10 years](https://github.com/clippings/join-us/blob/master/share-options.md#readme)
 [CodeCombat](http://codecombat.com) | 10 years
+[Codility](https://codility.com) | 10 years
 [CoinTracker](https://www.cointracker.io) | [10 years](https://triplebyte.com/company/public/cointracker)
 [Column Tax](https://jobs.columntax.com/) | 10 years
 [Cyscale Security](https://cyscale.com/careers/) | [3 years](https://cyscale.com/blog/one-cyscale-pro-employee-equity-esop-distribution-exercise-window) | After 3 years of employment
