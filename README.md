@@ -13,7 +13,6 @@ Name | Exercise Window | Additional details
 [Alan](https://alan.com) | 7 years
 [Alloy](https://alloy.ai) | 10 years
 [Alto](https://alto.com) | 2 years | After 2 years of employment
-[Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
 [AngelList](https://angel.co) | [10 years](https://angel.co/angellist)
 [BaseDash](https://www.basedash.com) | 10 years
 [Begin](https://begin.com/) | 2-5 years | After 2 years of employment, with each year of employment adding another year to the window
@@ -79,7 +78,6 @@ Name | Exercise Window | Additional details
 [Omada Health](https://www.omadahealth.com/) | [5 years](https://boards.greenhouse.io/omadahealth/jobs/1501140) | After 3 years of employment
 [OneSignal](https://www.onesignal.com/) | 10 years | After 2 years of employment
 [Open Listings](https://www.openlistings.com/) | [3 years](https://triplebyte.com/startup/open-listings)
-[Opendoor](https://www.opendoor.com/) | 3 years | After 3 years of employment
 [OpsLevel](https://www.opslevel.com/) | 10 years
 [Otter](https://withotter.com/) | [7 years](https://withotter.com/careers) | After 2 years of employment
 [Outlier AI](https://outlier.ai/) | 10 years | After 2 years of employment
@@ -116,7 +114,6 @@ Name | Exercise Window | Additional details
 [TransferWise](https://transferwise.com/) | 10 years
 [Trim](http://www.asktrim.com/) | 7 years
 [Triplebyte](https://triplebyte.com) | [10 years ](https://data.triplebyte.com/extending-stock-option-exercise-window-guide-43821b47cbbd)
-[Upstart](https://www.upstart.com/) | 10 years
 [Wasmer](https://wasmer.io/) | 7 years | After 2 years of employment
 [Wave](http://www.wave.com/) | [10 years](https://triplebyte.com/startup/wave)
 [Wefunder](https://wefunder.com/) | [3 years](https://triplebyte.com/startup/wefunder)
@@ -129,13 +126,17 @@ Name | Exercise Window | Additional details
 ---- | ---- | ----
 [Affirm](https://www.affirm.com/) | 7 years | After 2 years of employment
 [Alien Labs](https://alien.ai) | [10 years](https://twitter.com/mirceap/status/704442936906412033) | After 2 years of employment
+[Amplitude](https://amplitude.com) | [10 years](https://amplitude.com/blog/2015/12/01/employee-equity-is-broken-heres-our-fix/)
 [Asana](https://asana.com) | [10 years](https://twitter.com/moskov/status/623281365983842304)
 [Clef](https://getclef.com) | [7 years](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md#exercising-your-options)
 [Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years of employment
 [Cymmetria](https://www.cymmetria.com/) | [3 years](https://triplebyte.com/startup/cymmetria)
+[Opendoor](https://www.opendoor.com/) | 3 years | After 3 years of employment
 [Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
 [Segment](https://segment.com) | [10 years](https://twitter.com/calvinfo/status/622550129518612481)
 [Supply](http://www.madebysupply.com/) | 10 years
+[Upstart](https://www.upstart.com/) | 10 years
+
 
 ## VCs
 
