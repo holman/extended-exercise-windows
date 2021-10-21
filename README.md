@@ -137,7 +137,6 @@ Name | Exercise Window | Additional details
 [Supply](http://www.madebysupply.com/) | 10 years
 [Upstart](https://www.upstart.com/) | 10 years
 
-
 ## VCs
 
 It's worth noting that Andreessen Horowitz [has come out in strong favor of the 90 day window](http://a16z.com/2016/06/23/options-timing/). If you feel strongly about extended exercise windows, it might be worth considering whether a16z portfolio companies are a good fit for you.
