@@ -107,6 +107,7 @@ Name | Exercise Window | Additional details
 [Sourcegraph](https://about.sourcegraph.com/) | 10 years
 [Strava](https://www.strava.com/) | 5 years | After 2 years of employment
 [Streak](https://www.streak.com/) | 10 years
+[Supabase](https://www.supabase.com/) | 10 years
 [Swing Education](https://swingeducation.com) | 5 years
 [Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
 [Tettra](http://tettra.co) | 5 years
