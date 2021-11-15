@@ -95,6 +95,7 @@ Name | Exercise Window | Additional details
 [Quora](https://quora.com) | [10 years](https://twitter.com/adamdangelo/status/623734971090518017)
 [Razorpay](https://razorpay.com/) | 7 years
 [ReadMe](http://readme.com/) | [10 years](https://readme.com/handbook)
+[Render](https://render.com) | 5 to 10 years | 5 years after 2 years of employment; 10 years after 4 years of employment
 [RevenueCat](https://revenuecat.com/) | 10 years
 [Rewatch](https://rewatch.com/) | 7 years
 [Saleswhale](https://www.saleswhale.com) | 10 years
