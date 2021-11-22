@@ -90,6 +90,7 @@ Name | Exercise Window | Additional details
 [Pex](https://pex.com) | 10 years
 [PhotoRoom](https://www.photoroom.com) | 10 years | After 2 years of employment
 [PostHog](https://posthog.com/) | 10 years | Read about it in [the open source company handbook](https://posthog.com/handbook/people/share-options)
+[Postman](https://postman.com/) | 10 years
 [Postscript](https://postscript.io) | 8 years | After 2 years of employment
 [Puppet](https://puppet.com) | 1 year | After 2 years of employment
 [Quora](https://quora.com) | [10 years](https://twitter.com/adamdangelo/status/623734971090518017)
