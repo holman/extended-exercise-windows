@@ -123,6 +123,7 @@ Name | Exercise Window | Additional details
 [Wasmer](https://wasmer.io/) | 7 years | After 2 years of employment
 [Wave](http://www.wave.com/) | [10 years](https://triplebyte.com/startup/wave)
 [Wefunder](https://wefunder.com/) | [3 years](https://triplebyte.com/startup/wefunder)
+[WizeHire](https://wizehire.com/) | 10 years | After 2 years of employment
 [Zenysis](http://www.zenysis.com/) | [10 years](https://triplebyte.com/startup/zenysis)
 
 ## Previously-extended windows
