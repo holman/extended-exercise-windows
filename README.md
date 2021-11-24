@@ -120,6 +120,7 @@ Name | Exercise Window | Additional details
 [TransferWise](https://transferwise.com/) | 10 years
 [Trim](http://www.asktrim.com/) | 7 years
 [Triplebyte](https://triplebyte.com) | [10 years ](https://data.triplebyte.com/extending-stock-option-exercise-window-guide-43821b47cbbd)
+[Unflow](https://unflow.com) | 10 years | After 2 years of employment
 [Wasmer](https://wasmer.io/) | 7 years | After 2 years of employment
 [Wave](http://www.wave.com/) | [10 years](https://triplebyte.com/startup/wave)
 [Wefunder](https://wefunder.com/) | [3 years](https://triplebyte.com/startup/wefunder)
