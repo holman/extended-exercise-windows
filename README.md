@@ -51,6 +51,7 @@ Name | Exercise Window | Additional details
 [Gusto](https://gusto.com/) | [10 years](https://triplebyte.com/startup/gusto) | After 3 years of employment
 [Heap](https://heapanalytics.com) | 10 years
 [Her](https://weareher.com/) | [3 years](https://triplebyte.com/startup/her)
+[Hightouch](https://hightouch.io/) | 10 years
 [Honeycomb](https://honeycomb.io) | 1-7 years | 2 months per month of vesting after 1 year of employment
 [Hykso](https://www.hykso.com/) | [3 years](https://triplebyte.com/startup/hykso)
 [Infracost](https://www.infracost.io) | [10 years](https://www.abar.tech/articles/10yr-excercise-window/) | After 2 years of employment
