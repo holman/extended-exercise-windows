@@ -55,7 +55,6 @@ Name | Exercise Window | Additional details
 [Honeycomb](https://honeycomb.io) | 1-7 years | 2 months per month of vesting after 1 year of employment
 [Hykso](https://www.hykso.com/) | [3 years](https://triplebyte.com/startup/hykso)
 [Infracost](https://www.infracost.io) | [10 years](https://www.abar.tech/articles/10yr-excercise-window/) | After 2 years of employment
-[Instacart](https://www.instacart.com) | 7 years
 [Intellimize](https://www.intellimize.com) | 2 years
 [Ironclad](https://www.ironcladapp.com/) | [3 years](https://triplebyte.com/startup/ironclad)
 [Kayako](https://www.kayako.com) | [10 years](https://twitter.com/jmedwards/status/685778938992410625)
@@ -115,6 +114,7 @@ Name | Exercise Window | Additional details
 [Supabase](https://www.supabase.com/) | 10 years
 [Swing Education](https://swingeducation.com) | 5 years
 [Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
+[Temporal](https://temporal.io/) | 10 years
 [Tettra](http://tettra.co) | 5 years
 [Thread](https://www.thread.com/) | 10 years
 [Tines](https://tines.com/) | 5 years | After 2 years of employment
@@ -140,6 +140,7 @@ Name | Exercise Window | Additional details
 [Clef](https://getclef.com) | [7 years](https://github.com/clef/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md#exercising-your-options)
 [Coinbase](https://coinbase.com) | [7 years](https://medium.com/@barmstrong/improving-equity-compensation-at-coinbase-8749979409c3#.3qzgb59ec) | After 2 years of employment
 [Cymmetria](https://www.cymmetria.com/) | [3 years](https://triplebyte.com/startup/cymmetria)
+[Instacart](https://www.instacart.com) | 7 years
 [Opendoor](https://www.opendoor.com/) | 3 years | After 3 years of employment
 [Pinterest](https://www.pinterest.com) | [7 years](https://medium.com/@michaeldeangelo/unlocking-the-golden-handcuffs-6ac855a371f9#.v2zmf6j32) | After 2 years of employment
 [Segment](https://segment.com) | [10 years](https://twitter.com/calvinfo/status/622550129518612481)
