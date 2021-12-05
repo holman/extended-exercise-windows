@@ -119,6 +119,7 @@ Name | Exercise Window | Additional details
 [Thread](https://www.thread.com/) | 10 years
 [Tines](https://tines.com/) | 5 years | After 2 years of employment
 [TransferWise](https://transferwise.com/) | 10 years
+[Treasury Prime](https://www.treasuryprime.com/) | 7 years | After 2 years of employment
 [Trim](http://www.asktrim.com/) | 7 years
 [Triplebyte](https://triplebyte.com) | [10 years ](https://data.triplebyte.com/extending-stock-option-exercise-window-guide-43821b47cbbd)
 [Unflow](https://unflow.com) | 10 years | After 2 years of employment
