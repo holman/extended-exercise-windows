@@ -37,6 +37,7 @@ Name | Exercise Window | Additional details
 [Column Tax](https://jobs.columntax.com/) | 10 years
 [Cyscale Security](https://cyscale.com/careers/) | [3 years](https://cyscale.com/blog/one-cyscale-pro-employee-equity-esop-distribution-exercise-window) | After 3 years of employment
 [Desmos](https://www.desmos.com/careers) | 7 years
+[Earthly](https://earthly.dev/) | 10 years | After 3 years of employment
 [Eve](http://witheve.com/) | [7 years](https://triplebyte.com/startup/eve)
 [Even](https://www.even.com/careers) | [5 years](http://triplebyte.com/startup/even) | After 2 years of employment
 [Expensify](https://expensify.com) | [2 years](http://blog.expensify.com/2015/10/05/building-a-pro-employee-company-updating-equity-distribution-at-expensify/) | After 3 years of employment
