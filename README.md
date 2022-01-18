@@ -90,6 +90,7 @@ Name | Exercise Window | Additional details
 [Persista](http://persista.com) | 1 year
 [Pex](https://pex.com) | 10 years
 [PhotoRoom](https://www.photoroom.com) | 10 years | After 2 years of employment
+[Pilot](https://www.pilot.com) | 10 years
 [PostHog](https://posthog.com/) | 10 years | Read about it in [the open source company handbook](https://posthog.com/handbook/people/share-options)
 [Postman](https://postman.com/) | 10 years
 [Postscript](https://postscript.io) | 8 years | After 2 years of employment
