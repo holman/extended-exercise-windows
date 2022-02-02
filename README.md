@@ -66,6 +66,7 @@ Name | Exercise Window | Additional details
 [Lattice](https://latticehq.com/) | [3 years](https://triplebyte.com/startup/lattice)
 [Lawn Love](https://lawnlove.com/) | [7 years](https://triplebyte.com/startup/lawn-love)
 [Lightstep](https://lightstep.com/) | 1 year
+[Linear](https://linear.app/) | 10 years | After 2 years of employment
 [Lingokids](https://lingokids.com/) | 7 years | After 2 years of employment
 [Loom](https://loom.com/) | 10 years | After 2 years of employment
 [Mashgin](http://mashgin.com/) | [10 years](https://triplebyte.com/startup/mashgin)
