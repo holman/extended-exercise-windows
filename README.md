@@ -36,6 +36,7 @@ Name | Exercise Window | Additional details
 [CoinTracker](https://www.cointracker.io) | [10 years](https://triplebyte.com/company/public/cointracker)
 [Column Tax](https://jobs.columntax.com/) | 10 years
 [Cyscale Security](https://cyscale.com/careers/) | [3 years](https://cyscale.com/blog/one-cyscale-pro-employee-equity-esop-distribution-exercise-window) | After 3 years of employment
+[DataCamp](https://www.datacamp.com/careers) | 1 year for each year of vesting
 [Desmos](https://www.desmos.com/careers) | 7 years
 [Earthly](https://earthly.dev/) | 10 years | After 3 years of employment
 [Eve](http://witheve.com/) | [7 years](https://triplebyte.com/startup/eve)
