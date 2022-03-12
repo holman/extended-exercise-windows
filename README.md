@@ -76,6 +76,7 @@ Name | Exercise Window | Additional details
 [Mercury](https://mercury.com) | 7 years
 [Mixpanel](https://mixpanel.com) | [5 years](https://blog.mixpanel.com/2017/03/14/employee-equity/) | After 2 years of employment
 [Neighborly](https://neighborly.com/) | 10 years
+[Netlify](https://www.netlify.com/) | 7 years | After 2 years of employment
 [Niantic](https://nianticlabs.com/) | 10 years
 [Notion](https://www.notion.com/) | 10 years
 [Ockam](https://www.ockam.io/) | [5 years](https://www.ockam.io/team) | After 2 years of employment
