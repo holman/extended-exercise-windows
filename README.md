@@ -10,6 +10,7 @@ Name | Exercise Window | Additional details
 ---- | ---- | ----
 [Ada](https://www.ada.support/) | 5 years | After 2 years of employment
 [Aerotime](https://aerotime.com/) | 10 years | After 2 years of employment
+[Agora](https://www.getagora.com/) | 10 years
 [Alan](https://alan.com) | 7 years
 [Alloy](https://alloy.ai) | 10 years
 [Alto](https://alto.com) | 2 years | After 2 years of employment
@@ -44,7 +45,6 @@ Name | Exercise Window | Additional details
 [Expensify](https://expensify.com) | [2 years](http://blog.expensify.com/2015/10/05/building-a-pro-employee-company-updating-equity-distribution-at-expensify/) | After 3 years of employment
 [Experiment](https://experiment.com/) | [7 years](https://triplebyte.com/startup/experiment)
 [Felt](https://felt.com/) | 10 years
-[Figure](https://www.figurehr.com/) | 10 years
 [Flexport](https://www.flexport.com/) | [10 years](https://www.flexport.com/blog/10-year-option-exercise-window/)
 [Ginkgo Bioworks](http://www.ginkgobioworks.com/) | [5 years](https://triplebyte.com/startup/ginkgo-bioworks)
 [GiveCampus](https://www.givecampus.com/) | [10 years](https://triplebyte.com/startup/givecampus)
