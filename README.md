@@ -124,6 +124,7 @@ Name | Exercise Window | Additional details
 [Tettra](http://tettra.co) | 5 years
 [Thread](https://www.thread.com/) | 10 years
 [Tines](https://tines.com/) | 5 years | After 2 years of employment
+[Toplyne](https://toplyne.io/) | 10 years
 [TransferWise](https://transferwise.com/) | 10 years
 [Treasury Prime](https://www.treasuryprime.com/) | 7 years | After 2 years of employment
 [Trim](http://www.asktrim.com/) | 7 years
