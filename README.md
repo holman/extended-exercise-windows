@@ -114,6 +114,7 @@ Name | Exercise Window | Additional details
 [Science Exchange](https://www.scienceexchange.com/) | [7 years](https://triplebyte.com/startup/science-exchange)
 [Seed](https://seed.co/) | [5 years](https://triplebyte.com/startup/seed)
 [Secfi](https://www.secfi.com/) | 5 years
+[Showtime](https://showtime.xyz) | 10 years
 [SigOpt](https://sigopt.com/) | [7 years](https://triplebyte.com/startup/sigopt)
 [Skyflow](https://www.skyflow.com/) | 10 years
 [Smallstep](https://smallstep.com) | 10 years
