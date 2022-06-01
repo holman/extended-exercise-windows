@@ -112,6 +112,7 @@ Name | Exercise Window | Additional details
 [Saleswhale](https://www.saleswhale.com) | 10 years
 [Scale](https://www.scaleapi.com/) | 5 years | After 2 years of employment
 [Science Exchange](https://www.scienceexchange.com/) | [7 years](https://triplebyte.com/startup/science-exchange)
+[Scoop](https://www.takescoop.com/) | 3 years | After 3 years of employment
 [Seed](https://seed.co/) | [5 years](https://triplebyte.com/startup/seed)
 [Secfi](https://www.secfi.com/) | 5 years
 [Showtime](https://showtime.xyz) | 10 years
