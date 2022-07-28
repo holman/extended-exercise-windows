@@ -102,6 +102,7 @@ Name | Exercise Window | Additional details
 [PostHog](https://posthog.com/) | 10 years | Read about it in [the open source company handbook](https://posthog.com/handbook/people/share-options)
 [Postman](https://postman.com/) | 10 years
 [Postscript](https://postscript.io) | 8 years | After 2 years of employment
+[Prisma](https://prisma.io) | 10 years  
 [Puppet](https://puppet.com) | 1 year | After 2 years of employment
 [Quora](https://quora.com) | [10 years](https://twitter.com/adamdangelo/status/623734971090518017)
 [Razorpay](https://razorpay.com/) | 7 years
