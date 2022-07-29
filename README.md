@@ -80,6 +80,7 @@ Name | Exercise Window | Additional details
 [Mixpanel](https://mixpanel.com) | [5 years](https://blog.mixpanel.com/2017/03/14/employee-equity/) | After 2 years of employment
 [Mojo](https://www.mojo-app.com) | 10 years | After 2 years of employment
 [Monzo](https://monzo.com) | 10 years | Exercise price of $0.01
+[Mux](https://www.mux.com) | 10 years | After 2.5 years of employment
 [Neighborly](https://neighborly.com/) | 10 years
 [Netlify](https://www.netlify.com/) | 7 years | After 2 years of employment
 [Niantic](https://nianticlabs.com/) | 10 years
