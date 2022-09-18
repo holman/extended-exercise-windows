@@ -118,7 +118,7 @@ Name | Exercise Window | Additional details
 [Scoop](https://www.takescoop.com/) | 3 years | After 3 years of employment
 [Seed](https://seed.co/) | [5 years](https://triplebyte.com/startup/seed)
 [Secfi](https://www.secfi.com/) | 5 years
-[Showtime](https://showtime.xyz) | 10 years
+[Showtime](https://showtime.xyz) | 10 years | After 2 years of employment
 [SigOpt](https://sigopt.com/) | [7 years](https://triplebyte.com/startup/sigopt)
 [Skyflow](https://www.skyflow.com/) | 10 years
 [Smallstep](https://smallstep.com) | 10 years
