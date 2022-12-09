@@ -75,6 +75,7 @@ Name | Exercise Window | Additional details
 [Loom](https://loom.com/) | 10 years | After 2 years of employment
 [Mashgin](http://mashgin.com/) | [10 years](https://triplebyte.com/startup/mashgin)
 [MagicBell](http://magicbell.com/) | [10 years](https://twitter.com/unamashana/status/1415567616199036929?s=21) | After 2 years of employment
+[Major League Hacking](https://mlh.io) | 5 Years
 [Meadow](https://getmeadow.com) | 10 years
 [Mercury](https://mercury.com) | 7 years
 [Mixpanel](https://mixpanel.com) | [5 years](https://blog.mixpanel.com/2017/03/14/employee-equity/) | After 2 years of employment
