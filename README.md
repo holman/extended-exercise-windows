@@ -114,6 +114,7 @@ Name | Exercise Window | Additional details
 [RevenueCat](https://revenuecat.com/) | 10 years
 [Revolut](https://revolut.com/) | 10 years
 [Rewatch](https://rewatch.com/) | 7 years
+[RunwayML](https://runwayml.com) | 3 years | After 3 years of employment
 [Saleswhale](https://www.saleswhale.com) | 10 years
 [Scale](https://www.scaleapi.com/) | 5 years | After 2 years of employment
 [Science Exchange](https://www.scienceexchange.com/) | [7 years](https://triplebyte.com/startup/science-exchange)
