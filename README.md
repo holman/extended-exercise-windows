@@ -143,7 +143,6 @@ Name | Exercise Window | Additional details
 [Triplebyte](https://triplebyte.com) | [10 years ](https://data.triplebyte.com/extending-stock-option-exercise-window-guide-43821b47cbbd)
 [Unflow](https://unflow.com) | 10 years | After 2 years of employment
 [Vested](https://vested.co/) | 10 years | Immediately
-[Wasmer](https://wasmer.io/) | 7 years | After 2 years of employment
 [Wave](http://www.wave.com/) | [10 years](https://triplebyte.com/startup/wave)
 [Wefunder](https://wefunder.com/) | [3 years](https://triplebyte.com/startup/wefunder)
 [WizeHire](https://wizehire.com/) | 10 years | After 2 years of employment
@@ -168,6 +167,7 @@ Name | Exercise Window | Additional details
 [Segment](https://segment.com) | [10 years](https://twitter.com/calvinfo/status/622550129518612481)
 [Supply](http://www.madebysupply.com/) | 10 years
 [Upstart](https://www.upstart.com/) | 10 years
+[Wasmer](https://wasmer.io/) | 7 years | After 2 years of employment
 
 ## VCs
 
