@@ -73,6 +73,7 @@ Name | Exercise Window | Additional details
 [Linear](https://linear.app/) | 10 years | After 2 years of employment
 [Lingokids](https://lingokids.com/) | 7 years | After 2 years of employment
 [Loom](https://loom.com/) | 10 years | After 2 years of employment
+[MarsX](https://www.marsx.dev/) | 10 years
 [Mashgin](http://mashgin.com/) | [10 years](https://triplebyte.com/startup/mashgin)
 [MagicBell](http://magicbell.com/) | [10 years](https://twitter.com/unamashana/status/1415567616199036929?s=21) | After 2 years of employment
 [Major League Hacking](https://mlh.io) | 5 Years
