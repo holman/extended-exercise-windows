@@ -10,7 +10,6 @@ Name | Exercise Window | Additional details
 ---- | ---- | ----
 [Ada](https://www.ada.support/) | 5 years | After 2 years of employment
 [Aerotime](https://aerotime.com/) | 10 years | After 2 years of employment
-[Agora](https://www.getagora.com/) | 10 years
 [Alan](https://alan.com) | 7 years
 [Alloy](https://alloy.ai) | 10 years
 [Alto](https://alto.com) | 2 years | After 2 years of employment
