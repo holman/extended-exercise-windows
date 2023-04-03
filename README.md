@@ -91,6 +91,7 @@ Name | Exercise Window | Additional details
 [OneSignal](https://www.onesignal.com/) | 10 years | After 2 years of employment
 [Open Listings](https://www.openlistings.com/) | [3 years](https://triplebyte.com/startup/open-listings)
 [OpsLevel](https://www.opslevel.com/) | 10 years
+[Origin](https://www.useorigin.com/) | 5 years | After 2 years of employment
 [Otter](https://withotter.com/) | [7 years](https://withotter.com/careers) | After 2 years of employment
 [Outlier AI](https://outlier.ai/) | 10 years | After 2 years of employment
 [Outschool](https://outschool.com/) | [10 years](https://triplebyte.com/startup/outschool)
