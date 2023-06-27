@@ -147,6 +147,7 @@ Name | Exercise Window | Additional details
 [Wave](http://www.wave.com/) | [10 years](https://triplebyte.com/startup/wave)
 [Wefunder](https://wefunder.com/) | [3 years](https://triplebyte.com/startup/wefunder)
 [WizeHire](https://wizehire.com/) | 10 years | After 2 years of employment
+[WorkOS](https://workos.com/) | 10 years | Immediately
 [Zefir](https://www.zefir.fr) | 10 years | Double Trigger
 [Zenysis](http://www.zenysis.com/) | [10 years](https://triplebyte.com/startup/zenysis)
 
