@@ -47,6 +47,7 @@ Name | Exercise Window | Additional details
 [Experiment](https://experiment.com/) | [7 years](https://triplebyte.com/startup/experiment)
 [Felt](https://felt.com/) | 10 years
 [Flexport](https://www.flexport.com/) | [10 years](https://www.flexport.com/blog/10-year-option-exercise-window/)
+[Foxglove](https://foxglove.dev/) | [10 years](https://foxglove.dev/blog/its-time-to-change-the-status-quo-for-options) | After 2 years of employment
 [Freshpaint](https://www.www.freshpaint.io/) | [10 years](https://www.freshpaint.io/about)
 [Ginkgo Bioworks](http://www.ginkgobioworks.com/) | [5 years](https://triplebyte.com/startup/ginkgo-bioworks)
 [GiveCampus](https://www.givecampus.com/) | [10 years](https://triplebyte.com/startup/givecampus)
