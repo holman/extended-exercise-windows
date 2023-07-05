@@ -8,6 +8,7 @@ For more information, read [this post](http://zachholman.com/posts/fuck-your-90-
 
 Name | Exercise Window | Additional details
 ---- | ---- | ----
+[AcuityMD](https://www.acuitymd.com/) | 10 years | 
 [Ada](https://www.ada.support/) | 5 years | After 2 years of employment
 [Aerotime](https://aerotime.com/) | 10 years | After 2 years of employment
 [Alan](https://alan.com) | 7 years
