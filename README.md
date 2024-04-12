@@ -20,8 +20,9 @@ Name | Exercise Window | Additional details
 [BaseDash](https://www.basedash.com) | 10 years
 [Begin](https://begin.com/) | 2-5 years | After 2 years of employment, with each year of employment adding another year to the window
 [BillionToOne](https://billiontoone.com/) | 10 years | After 2 years of employment
-[Bonsai](https://www.hellobonsai.com/) | [10 years](https://triplebyte.com/startup/bonsai)
 [Blissfully](https://www.blissfully.com) | 5 years
+[Bobsled](https://www.bobsled.co/) | 10 years
+[Bonsai](https://www.hellobonsai.com/) | [10 years](https://triplebyte.com/startup/bonsai)
 [Braid](https://braidhq.com) | 5 years
 [Brex](https://brex.com) | 7 years | After 2 years of employment
 [Buffer](https://buffer.com) | [10 years](https://open.buffer.com/explaining-equity/)
