@@ -136,6 +136,7 @@ Name | Exercise Window | Additional details
 [Streak](https://www.streak.com/) | 10 years
 [Supabase](https://www.supabase.com/) | 10 years
 [Swing Education](https://swingeducation.com) | 5 years
+[Taiki](https://taiki.ai) | 10 years
 [Teachers Pay Teachers](https://teacherspayteachers.com) | Practically forever | Makes taxes slightly more complicated, but we offer a tax prep reimbursement benefit
 [Temporal](https://temporal.io/) | 10 years
 [Tettra](http://tettra.co) | 5 years
