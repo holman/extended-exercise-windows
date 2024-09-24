@@ -31,6 +31,7 @@ Name | Exercise Window | Additional details
 [Carmera](https://carmera.com) | [10 years](https://twitter.com/jessaylaz/status/1316044523320094725) | After 2 years of employment
 [Carta](https://carta.com) | [1 year for each year of vesting](https://carta.com/blog/pte-vesting/)
 [Castle](https://castle.io) | 10 year
+[Chameleon](https://www.chameleon.io) |7 years | After 2 years of employment
 [Checkr](https://checkr.com) | 10 years | After 2 years of employment
 [Cinder](https://cindercooks.com/) | [10 years](https://triplebyte.com/startup/cinder)
 [Circle Medical](https://www.circlemedical.com/) | [5 years](https://triplebyte.com/startup/circle-medical)
