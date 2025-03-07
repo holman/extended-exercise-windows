@@ -49,6 +49,7 @@ Name | Exercise Window | Additional details
 [Even](https://www.even.com/careers) | [5 years](http://triplebyte.com/startup/even) | After 2 years of employment
 [Expensify](https://expensify.com) | [2 years](http://blog.expensify.com/2015/10/05/building-a-pro-employee-company-updating-equity-distribution-at-expensify/) | After 3 years of employment
 [Experiment](https://experiment.com/) | [7 years](https://triplebyte.com/startup/experiment)
+[Feedly](https://feedly.com/) | 10 years
 [Felt](https://felt.com/) | 10 years
 [Flexport](https://www.flexport.com/) | [10 years](https://www.flexport.com/blog/10-year-option-exercise-window/)
 [Foxglove](https://foxglove.dev/) | [10 years](https://foxglove.dev/blog/its-time-to-change-the-status-quo-for-options) | After 2 years of employment
